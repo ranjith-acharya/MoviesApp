@@ -1,7 +1,10 @@
 ## MoviesApp
 <p align="left">
+  <img src="https://img.shields.io/github/languages/count/ranjith-acharya/MoviesApp?style=for-the-badge">
   <img src="https://img.shields.io/github/languages/top/ranjith-acharya/MoviesApp?style=for-the-badge">
   <img src="https://img.shields.io/github/last-commit/ranjith-acharya/MoviesApp?style=for-the-badge">
+  <img src="https://img.shields.io/youtube/channel/views/UC0ZyCb-OnKjhheQZFAQIFkw?color=%23CD201F&label=SUBSCRIBE&logo=youtube&style=for-the-badge">
+  <img src="https://img.shields.io/instagram/_ranjithacharya_&logo=instagram&style=for-the-badge">
 </p>
 
 ## Installation and Execution
