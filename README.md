@@ -1,3 +1,8 @@
+## MoviesApp
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/ranjith-acharya/MoviesApp?style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/ranjith-acharya/MoviesApp?style=for-the-badge">
+</p>
 ## Installation and Execution
 : Installing TailwindCSS
 : Create 'tailwind.config.js' File
